@@ -1,0 +1,6 @@
+server:
+  port: 9901
+
+elasticsearch:
+  cluster-nodes: 127.0.0.1:9300
+  cluster-name: elasticsearch_school
